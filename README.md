@@ -1,0 +1,2 @@
+# FunYug
+Website for fun
