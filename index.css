@@ -566,7 +566,7 @@ img:hover
 @media only screen and (max-width: 500px) {
   #footer_div
   {
-    height: 7em;
+    height: 10em;
   }
 
   #info
@@ -588,7 +588,6 @@ img:hover
 {
   font-size: 3em;
   color: white;
-  font-family: cursive;
 }
 
 /* Styling for iPhone XS */
